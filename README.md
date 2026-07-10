@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy, I'm Tasleen<br>Artificial intelligence and data science <br>Python| Data analyst 
+Hii, I'm Tasleen<br>B.E in Artificial intelligence and data science <br>"Aspiring Data Analyst|Python Enthusiast<br>skilled in Python,SQL,Excel,Power BI,HTML,CSS,Git & GitHub<br>Currently learning Data Analytics and building real-world Projects
 
 
 ## 🌐 Socials:
